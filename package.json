@@ -2,7 +2,7 @@
   "name": "clear",
   "version": "0.1.0",
   "private": true,
-"homepage": "https://dmytro-matviiv.github.io/clearSkin",
+  "homepage": "https://dmytro-matviiv.github.io/clearSkin",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
@@ -15,7 +15,7 @@
     "bootstrap": "^5.3.5",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
